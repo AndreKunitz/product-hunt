@@ -9,3 +9,4 @@ An API build with Node.js following the course *NodeJS* by *Rocketseat*.
 - Connect to MongoDB
 - Use Mongoose to set up model schemas;
 - Set up app routes;
+- Create CRUD operations with Mongoose;

@@ -11,3 +11,4 @@ An API build with Node.js following the course *NodeJS* by *Rocketseat*.
 - Set up app routes;
 - Create CRUD operations with Mongoose;
 - Pagination with mongoose-paginate
+- Add CORS to the project

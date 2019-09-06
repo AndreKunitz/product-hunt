@@ -4,6 +4,7 @@ const requireDir = require('require-dir');
 
 // Initialize app
 const app = express();
+app.use(express.json());
 
 // Connect to DB
 mongoose.connect(
@@ -13,7 +14,7 @@ mongoose.connect(
 requireDir('./src/models');
 
 
-// Create first route
+// Routes
 app.use('/api', require('./src/routes'));
 
 app.listen(3001);

@@ -8,3 +8,4 @@ An API build with Node.js following the course *NodeJS* by *Rocketseat*.
 - Use Docker and add MongoDB image;
 - Connect to MongoDB
 - Use Mongoose to set up model schemas;
+- Set up app routes;

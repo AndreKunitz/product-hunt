@@ -10,3 +10,4 @@ An API build with Node.js following the course *NodeJS* by *Rocketseat*.
 - Use Mongoose to set up model schemas;
 - Set up app routes;
 - Create CRUD operations with Mongoose;
+- Pagination with mongoose-paginate
